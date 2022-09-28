@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "userName": "duality",
+    "userName": "subodh01",
     "avatarUrl": "images\/avatars\/default.svg",
     "achievements": [
       "Professor",
@@ -17,7 +17,7 @@
   },
   {
     "id": "2",
-    "userName": "arrise",
+    "userName": "subodh02",
     "avatarUrl": "images\/avatars\/default.svg",
     "achievements": [
       "Cosmologist",
@@ -33,7 +33,7 @@
   },
   {
     "id": "3",
-    "userName": "evergrid",
+    "userName": "subodh03",
     "avatarUrl": "images\/avatars\/default.svg",
     "achievements": [
       "Faster than Light",
@@ -46,7 +46,7 @@
   },
   {
     "id": "4",
-    "userName": "sodapop",
+    "userName": "subodh04",
     "avatarUrl": "images\/avatars\/default.svg",
     "achievements": [
       "Photon Hunter",

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99a00f1b-b92b-4b23-8599-fb8d52f79f69/AppServices/subscriptions/99a00f1b-b92b-4b23-8599-fb8d52f79f69/resourceGroups/TeamPhoenix/providers/Microsoft.Web/sites/isubodh",
+    "appService.deploySubpath": "Tailspin.SpaceGame.Web/bin/Release/net6.0/publish"
+}
